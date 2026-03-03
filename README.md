@@ -101,8 +101,9 @@ This project is open-source and free to use for learning purposes.
 ## 👨‍💻 Author
 
 Your Name
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/MakwanaNitin
 
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
